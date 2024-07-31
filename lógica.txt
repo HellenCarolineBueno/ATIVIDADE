@@ -10,44 +10,39 @@ Descasque as bananas
 Vá até a gaveta de talheres
 Abra a gaveta de talheres
 Pegue uma faca
-Corte as bananas em rodelas
-Feche a gaveta de talheres
-Vá até a geladeira
-Pegue um litro de leite desnatado de caixinha
-Feche a geladeira
-Coloque o litro de leite desnatado de caixinha sobre a mesa
-Vá até a gaveta de talheres
-Abra a gaveta de talheres
-Pegue uma faca
-Coloque a faca sobre a mesa
-Vá até a gaveta aberta
 Pegue uma colher de sopa
-Pegue uma colher de chá
+Coloque a faca na mesa
 Coloque a colher de sopa na mesa
-Coloque a colher de chá na mesa
-Feche a gaveta
-Vá até a geladeira 
-Pegue a pasta de amendoim
-Pegue o pote de mel
-Coloque a pasta de amendoim sobre a mesa
-Coloque o pote de mel sobre a mesa
+Feche a gaveta de talheres
+Pegue a faca
+Corte as bananas em rodelas 
+Coloque as bananas cortadas no liquidificador
+Vá até a geladeira
+Abra a geladeira
+Pegue um litro de leite desnatado de caixinha
+Deixe a geladeira aberta
+Coloque o litro de leite desnatado de caixinha sobre a mesa
+Vá até a geladeira aberta
+Pegue a pasta de amendoim 
+Coloque a pasta de amendoim na mesa
 Feche a geladeira
+Vá até a mesa
 Abra a pasta de amendoim
-Pegue a colher de sopa
+Pegue a colher de sopa sobre a mesa
 Encha a colher de sopa com pasta de amendoim
 Despeja a colher de sopa com pasta de amendoim no liquidificador
-Pegue a colher de chá
-Encha a colher de chá com mel
-Despeja a colher de chá com mel no liquidificador
 Pegue a faca sobre a mesa
 Pegue o leite desnatado sobre mesa
 Corte o lacre da caixinha de leite desnatado
+Deixe a caixinha de leite desnatado com o lacre cortado sobre a mesa
 Vá ao armário mais próximo
-Pegue um copo de um litro
-Coloque o copo sobre a mesa
+Abra o armário
+Pegue um copo
 Feche o armário
-Pegue a caixinha de leite desnatado
-Despeja a caixinha de leite desnatado no copo
+Vá até a mesa
+Coloque o copo sobre a mesa
+Pegue a caixinha de leite desnatado com o lacre cortado
+Despeja a caixinha de leite desnatado com o lacre cortado no copo
 Pegue o copo com leite desnatado
 Vá até o liquidificador
 Despeja o copo com leite desnatado no liquidificador
