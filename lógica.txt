@@ -41,7 +41,7 @@ Encha a colher de chá com mel
 Despeja a colher de chá com mel no liquidificador
 Pegue a faca sobre a mesa
 Pegue o leite desnatado sobre mesa
-Corte o lacre da caixinha de leite
+Corte o lacre da caixinha de leite desnatado
 Vá ao armário mais próximo
 Pegue um copo de um litro
 Coloque o copo sobre a mesa
@@ -50,7 +50,7 @@ Pegue a caixinha de leite desnatado
 Despeja a caixinha de leite desnatado no copo
 Pegue o copo com leite desnatado
 Vá até o liquidificador
-Despeja o copo com leite desnatado
+Despeja o copo com leite desnatado no liquidificador
 Pegue a tampa do liquidificador
 Tampe o liquidificador
 Ligue o liquidificador na tomada
