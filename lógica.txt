@@ -2,24 +2,51 @@ Data:30/07/2024 Hellen Caroline Bueno
 
 Atividade: Sequência Lógica Como Fazer uma vitamina para pré treino
 
-1- Pegue um liquidificador 
-2- Pegue duas bananas 
-3- Descasque as bananas
-4- Corte as bananas em rodelas
-5- Pegue 200ml de leite desnatado
-6- Despeje as bananas cortadas no liquidificador
-7- Despeje os 200ml de leite desnatado
-8- Pegue uma colher de sopa 
-9- Encha com pasta de amendoim
-10- Pegue uma colher de chá 
-11- Encha com mel
-12- Despeja a colher de chá com mel no liquidificador
-13- Despeje a pasta no liquidificador
-14- Pegue a tampa do liquidificador
-15- Tampe o liquidificador
-16- Ligue o liquidificador na tomada
-17- Gire o botão na potência dois
-18- Deixe ligado por 3 minutos
-19- Pegue um copo 
-20- Pegue a vitamina 
-21- Despeja a vitamina no copo
+1 Pegue um liquidificador 
+2 Coloque o liquidificador sobre a mesa
+3 Pegue duas bananas 
+4 Coloque as bananas sobre um prato
+5 Descasque as bananas
+6 Corte as bananas em rodelas
+7 Vá até a geladeira
+8 Pegue um litro de leite desnatado de caixinha
+9 Feche a geladeira
+10 Coloque o litro de leite desnatado de caixinha sobre a mesa
+11 Vá até a gaveta de talheres
+12 Abra a gaveta de talheres
+13 Pegue uma faca
+14 Coloque a faca ao lado da caixinha de leite
+15 Vá até a gaveta aberta
+16 Pegue uma colher de sopa
+17 Pegue uma colher de chá
+18 Feche a gaveta
+19 Coloque a colher de sopa na mesa
+20 Coloque a colher de chá na mesa
+21 Vá até a geladeira 
+22 Pegue a pasta de amendoim
+23 Coloque a pasta de amendoim sobre a mesa
+24 Coloque o pote de mel sobre a mesa
+25 Abra a pasta de amendoim
+26 Pegue a colher de sopa
+27 Encha a colher de sopa com pasta de amendoim
+28 Despeja a colher de sopa com pasta de amendoim no liquidificador
+29 Pegue a colher de chá
+30 Encha a colher de chá com mel
+31 Despeja a colher de chá com mel no liquidificador
+32 Pegue a faca sobre a mesa
+33 Pegue o leite desnatado sobre mesa
+34 Corte o lacre da caixinha de leite
+35 Vá ao armário mais próximo
+36 Pegue um copo de um litro
+37 Coloque o copo sobre a mesa
+38 Pegue a caixinha de leite desnatado
+39 Despeja a caixinha de leite desnatado no copo
+40 Pegue o copo com leite desnatado
+41 Vá até o liquidificador
+42 Despeja o copo com leite desnatado
+43 Pegue a tampa do liquidificador
+44 Tampe o liquidificador
+45 Ligue o liquidificador na tomada
+46 Gire o botão na potência dois
+47 Deixe ligado por 3 minutos
+48 Desligue o liquidificador
