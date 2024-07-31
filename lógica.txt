@@ -14,7 +14,7 @@ Pegue uma colher de sopa
 Coloque a faca na mesa
 Coloque a colher de sopa na mesa
 Feche a gaveta de talheres
-Pegue a faca
+Pegue a faca na mesa
 Corte as bananas em rodelas 
 Coloque as bananas cortadas no liquidificador
 Vá até a geladeira
