@@ -2,27 +2,42 @@ Data:30/07/2024 Hellen Caroline Bueno
 
 Atividade: Sequência Lógica Como Fazer uma vitamina para pré treino
   
+Vá até um armário 
+Abra o armário
 Pegue um liquidificador 
+Pegue um prato
+Vá até a mesa
 Coloque o liquidificador sobre a mesa
+Coloque o prato sobre a mesa
+Vá até o armário
+Feche o armário
+Vá até a fruteira
 Pegue duas bananas 
-Coloque as bananas sobre um prato
+Vá até a mesa
+Coloque as bananas sobre o prato
 Descasque as bananas
+Pegue as cascas de bananas
+Vá até o lixeiro
+Abra o lixeiro
+Jogue as cascas de banana no lixeiro
+Feche o lixeiro
 Vá até a gaveta de talheres
 Abra a gaveta de talheres
 Pegue uma faca
 Pegue uma colher de sopa
+Vá até a mesa
 Coloque a faca na mesa
 Coloque a colher de sopa na mesa
+Vá até a gaveta de talheres
 Feche a gaveta de talheres
+Vá até a mesa
 Pegue a faca na mesa
 Corte as bananas em rodelas 
 Coloque as bananas cortadas no liquidificador
 Vá até a geladeira
 Abra a geladeira
 Pegue um litro de leite desnatado de caixinha
-Deixe a geladeira aberta
 Coloque o litro de leite desnatado de caixinha sobre a mesa
-Vá até a geladeira aberta
 Pegue a pasta de amendoim 
 Coloque a pasta de amendoim na mesa
 Feche a geladeira
@@ -35,12 +50,14 @@ Pegue a faca sobre a mesa
 Pegue o leite desnatado sobre mesa
 Corte o lacre da caixinha de leite desnatado
 Deixe a caixinha de leite desnatado com o lacre cortado sobre a mesa
-Vá ao armário mais próximo
+Vá até o armário
 Abra o armário
 Pegue um copo
-Feche o armário
 Vá até a mesa
 Coloque o copo sobre a mesa
+Vá até o armário
+Feche o armário
+Vá até a mesa
 Pegue a caixinha de leite desnatado com o lacre cortado
 Despeja a caixinha de leite desnatado com o lacre cortado no copo
 Pegue o copo com leite desnatado
@@ -49,6 +66,8 @@ Despeja o copo com leite desnatado no liquidificador
 Pegue a tampa do liquidificador
 Tampe o liquidificador
 Ligue o liquidificador na tomada
-Gire o botão na potência dois
-Deixe ligado por 3 minutos
-Desligue o liquidificador
+Gire o botão do liquidificador na potência dois
+Espere por 3 minutos
+Gire novamente o botão para posição 0
+Está pronto a vitamina
+--
