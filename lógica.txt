@@ -14,8 +14,8 @@ Feche o armário
 Vá até a fruteira
 Pegue duas bananas 
 Vá até a mesa
-Coloque as bananas sobre o prato
 Descasque as bananas
+Coloque as bananas sobre o prato
 Pegue as cascas de bananas
 Vá até o lixeiro
 Abra o lixeiro
@@ -25,45 +25,47 @@ Vá até a gaveta de talheres
 Abra a gaveta de talheres
 Pegue uma faca
 Pegue uma colher de sopa
+Feche a gaveta de talheres
 Vá até a mesa
 Coloque a faca na mesa
 Coloque a colher de sopa na mesa
-Vá até a gaveta de talheres
-Feche a gaveta de talheres
-Vá até a mesa
 Pegue a faca na mesa
 Corte as bananas em rodelas 
+Deixe a faca sobre a mesa
+Abra o liquidificador
+Coloque a tampa do liquidificador sobre a mesa
 Coloque as bananas cortadas no liquidificador
 Vá até a geladeira
 Abra a geladeira
-Pegue um litro de leite desnatado de caixinha
-Coloque o litro de leite desnatado de caixinha sobre a mesa
-Pegue a pasta de amendoim 
+Pegue um litro de leite
+Pegue a pasta de amendoim
+Vá até a mesa
+Coloque o litro de leite sobre a mesa
 Coloque a pasta de amendoim na mesa
+Vá até a geladeira
 Feche a geladeira
 Vá até a mesa
 Abra a pasta de amendoim
 Pegue a colher de sopa sobre a mesa
 Encha a colher de sopa com pasta de amendoim
-Despeja a colher de sopa com pasta de amendoim no liquidificador
+Despeja o contéudo da colher de sopa sobre o liquidificador
+Deixe a colher de sopa sobre a mesa
 Pegue a faca sobre a mesa
-Pegue o leite desnatado sobre mesa
-Corte o lacre da caixinha de leite desnatado
-Deixe a caixinha de leite desnatado com o lacre cortado sobre a mesa
+Pegue o leite sobre mesa
+Corte o lacre do leite 
+Deixe a faca sobre a mesa
+Deixe a caixinha de leite com o lacre cortado sobre a mesa
 Vá até o armário
 Abra o armário
 Pegue um copo
-Vá até a mesa
-Coloque o copo sobre a mesa
-Vá até o armário
 Feche o armário
 Vá até a mesa
-Pegue a caixinha de leite desnatado com o lacre cortado
-Despeja a caixinha de leite desnatado com o lacre cortado no copo
-Pegue o copo com leite desnatado
-Vá até o liquidificador
-Despeja o copo com leite desnatado no liquidificador
-Pegue a tampa do liquidificador
+Coloque o copo sobre a mesa
+Pegue a caixinha de leite
+Despeja o conteúdo da caixinha de leite no copo
+Pegue o copo com leite
+Despeja o conteúdo do copo no liquidificador
+Pegue a tampa do liquidificador sobre a mesa
 Tampe o liquidificador
 Ligue o liquidificador na tomada
 Gire o botão do liquidificador na potência dois
