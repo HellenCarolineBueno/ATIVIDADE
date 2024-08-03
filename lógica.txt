@@ -70,4 +70,3 @@ Gire o botão do liquidificador na potência dois
 Espere por 3 minutos
 Gire novamente o botão para posição 0
 Está pronto a vitamina
---
