@@ -1,13 +1,20 @@
 #include <stdio.h>
  
-int main() {
+ int soma (int a, int b){
+    int resultado;
+    resultado = a + b;
+    return resultado;
  
-    int A = 0, B = 0, X = 0;
-    scanf("%d\n%d",&A,&B);
-    X= A+B;
-    printf("X = %d\n",X);
-    
-    
- 
+ }
+ int main (void) {
+
+ int a, b;
+ int resposta;
+  prinft("Digite dois numeros para somar:\n");
+  scanf("%d %d",&a, &b);
+
+  resposta = soma(a, b);
+  printf("%d + %d = %d\n", a , b, resposta);
+
     return 0;
 }
