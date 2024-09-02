@@ -1,0 +1,109 @@
+Início
+
+    // Preparar utensílios e ingredientes
+    Vá até o armário
+    Se o armário estiver aberto
+        Pegue o liquidificador
+        Pegue um prato
+        Feche o armário
+    Senão
+        Abra o armário
+        E repita o procedimento acima
+      
+    Vá até a mesa
+    Coloque o liquidificador sobre a mesa
+    Coloque o prato sobre a mesa
+
+    Vá até a fruteira
+    Se houver bananas na fruteira
+        Pegue duas bananas
+    Senão
+        Exiba "Não há bananas na fruteira."
+
+    Vá até a mesa
+    Descasque as bananas
+    Coloque as bananas descascadas sobre o prato
+
+    Pegue as cascas de banana
+    Vá até o lixeiro
+    Se o lixeiro estiver aberto
+        Jogue as cascas de banana no lixeiro
+        Feche o lixeiro
+    Senão
+        Abra o lixeiro
+        E repita o procedimento acima
+
+    // Pegar utensílios para cortar as bananas
+    Vá até a gaveta de talheres
+    Se a gaveta estiver aberta
+        Pegue uma faca
+        Pegue uma colher de sopa
+        Feche a gaveta de talheres
+    Senão
+        Abra a gaveta de talheres
+        E repita o procedimento acima
+        
+    Vá até a mesa
+    Coloque a faca e a colher de sopa sobre a mesa
+
+    // Cortar as bananas
+    Pegue a faca
+    Corte as bananas em rodelas
+    Deixe a faca sobre a mesa
+
+    // Preparar o liquidificador
+    Abra o liquidificador
+    Coloque as bananas cortadas no liquidificador
+    Coloque a tampa do liquidificador sobre a mesa
+
+    // Pegar ingredientes adicionais
+    Vá até a geladeira
+    Se a geladeira estiver aberta
+        Pegue um litro de leite
+        Pegue a pasta de amendoim
+        Feche a geladeira
+    Senão
+        Abra a geladeira
+        E repita o procedimento acima
+        
+    Vá até a mesa
+    Coloque o litro de leite e a pasta de amendoim sobre a mesa
+
+    Abra a pasta de amendoim
+    Pegue a colher de sopa
+    Encha a colher de sopa com pasta de amendoim
+    Despeje o conteúdo da colher de sopa no liquidificador
+    Deixe a colher de sopa sobre a mesa
+
+    Pegue a caixinha de leite
+    Se a caixinha estiver lacrada
+        Corte o lacre com a faca
+        Deixe a faca sobre a mesa
+        Deixe a caixinha de leite com o lacre cortado sobre a mesa
+    Senão
+        Exiba "A caixinha de leite já está aberta."
+
+    Vá até o armário
+    Se o armário estiver aberto
+        Pegue um copo
+        Feche o armário
+    Senão
+        Abra o armário 
+        E repita o procedimento acima
+        
+    Vá até a mesa
+    Coloque o copo sobre a mesa
+    Despeje o conteúdo da caixinha de leite no copo
+    Despeje o leite do copo no liquidificador
+
+    Pegue a tampa do liquidificador
+    Tampe o liquidificador
+    Ligue o liquidificador na tomada
+    Gire o botão do liquidificador na potência dois
+    Espere por 3 minutos
+    Gire o botão para a posição 0
+        
+    Exiba "A vitamina está pronta para o pré-treino."
+
+Fim
+
