@@ -1,6 +1,5 @@
 Início
 
-    // Preparar utensílios e ingredientes
     Vá até o armário
     Se o armário estiver aberto
         Pegue o liquidificador
@@ -33,7 +32,6 @@ Início
         Abra o lixeiro
         E repita o procedimento acima
 
-    // Pegar utensílios para cortar as bananas
     Vá até a gaveta de talheres
     Se a gaveta estiver aberta
         Pegue uma faca
@@ -51,7 +49,6 @@ Início
     Corte as bananas em rodelas
     Deixe a faca sobre a mesa
 
-    // Preparar o liquidificador
     Abra o liquidificador
     Coloque as bananas cortadas no liquidificador
     Coloque a tampa do liquidificador sobre a mesa
