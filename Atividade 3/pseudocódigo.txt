@@ -44,7 +44,6 @@ Início
     Vá até a mesa
     Coloque a faca e a colher de sopa sobre a mesa
 
-    // Cortar as bananas
     Pegue a faca
     Corte as bananas em rodelas
     Deixe a faca sobre a mesa
@@ -53,7 +52,6 @@ Início
     Coloque as bananas cortadas no liquidificador
     Coloque a tampa do liquidificador sobre a mesa
 
-    // Pegar ingredientes adicionais
     Vá até a geladeira
     Se a geladeira estiver aberta
         Pegue um litro de leite
